@@ -4,6 +4,15 @@ Investigating prediction markets; often correlated markets are considered to be 
 
 This repository will investigate whether this is the case and to what extent it is.
 
+## Usage
+
+The file *predictit_all_markets.csv*, will download all the market data from the public API, it writes a csv file in the project root. To create this, first activate the virtual environment and then run the following commands:
+
+```python
+source pred_env/bin/activate
+python3 get_market_data.py
+```
+
 ## Setup
 
 ### Setup the Environment

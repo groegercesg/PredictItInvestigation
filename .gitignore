@@ -1,5 +1,6 @@
 # Project stuff
 pred_env/
+predictit_all_markets.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

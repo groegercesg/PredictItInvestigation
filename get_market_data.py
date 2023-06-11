@@ -33,4 +33,4 @@ df = pd.DataFrame(data)
 df.columns=['Market_ID','Market_Name','Market_URL','Contract_ID','Contract_Name','bestBuyYesCost','bestBuyNoCost','BestSellYesCost','BestSellNoCost','Time_Stamp','Status']
 
 # Write dataframe to CSV file in working directory
-df.to_csv(r'./predictit_all_markets.csv', sep=',', encoding='utf-8', header='true')
+df.to_csv(r'data/predictit_all_markets.csv', sep=',', encoding='utf-8', header='true', index=False)

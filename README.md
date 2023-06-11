@@ -43,6 +43,9 @@ As we can see from the worked example above, in either case a profit per contrac
 
 ### Determining Algorithmically
 
+Jupyter Notebooks to determine opportunities:
+- ``dual_contracts.ipynb``, looks for contracts with discrepancies in the Yes/No prices.
+
 ## Setup
 
 ### Setup the Environment

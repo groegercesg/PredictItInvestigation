@@ -1,0 +1,2 @@
+# PredictItInvestigation
+Investigating prediction markets
